@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darshan Suthar
 - 👀 I’m interested in Web development technologies like React, typescript, Angular, Spring boot
-- 🌱 I’m currently learning Next.js and tRPC with t3 stack 
+- 🌱 I’m currently learning Next.js, tRPC with t3 stack 
 
 
 <!---
